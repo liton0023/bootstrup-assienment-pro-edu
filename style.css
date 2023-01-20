@@ -2,4 +2,13 @@
   .courses-img img {
     width: 100%;
   }
+  #register {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .login {
+    width: 100%;
+  }
 }
